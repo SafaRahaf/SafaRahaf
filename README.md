@@ -29,6 +29,7 @@ I love turning complex problems into simple, beautiful, intuitive products — a
 - 💬 Ask me about **React, Next.js, Node.js, NestJS, or fullstack architecture**
 - 📫 Reach me at **safarahafkhan@gmail.com**
 - 🌍 Based in **Remote · Worldwide**
+- <a href="https://safa-psi.vercel.app">Safa Rahaf Khan Portfolio</a>
 
 ---
 
